@@ -70,11 +70,6 @@ This model prioritizes **high recall** over precision — ideal for medical scre
 - False positives → Additional testing (low risk)
 - False negatives → Missed diagnosis (high risk)
 
-
-## License
-
-MIT License - feel free to use and modify for your projects.
-
 ---
 
 <p align="center">
